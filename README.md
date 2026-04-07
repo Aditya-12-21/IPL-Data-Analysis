@@ -1,36 +1,35 @@
-# IPL-Data-Analysis
+**IPL-Data-Analysis**
 IPL Data Analysis using Python (EDA + Visualization)
-# IPL Data Analysis Project 🏏
+IPL Data Analysis Project 🏏
 
-## 📌 Overview
+📌 Overview
 This project analyzes IPL match data to extract insights about team performance, player statistics, and match outcomes using Python.
 
-## 📊 Features
+📊 Features
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 
-## 📈 Key Insights
+📈 Key Insights
 - Top performing teams based on wins
 - Top batsmen with highest runs
 - Top bowlers with most wickets
 - Toss impact on match results
 
-## 🛠️ Tools & Technologies
+🛠️ Tools & Technologies
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
+📷 Sample Visualizations
+<img width="1256" height="629" alt="Screenshot 2026-04-07 091651" src="https://github.com/user-attachments/assets/080651c4-5da5-48db-8114-e27d5004f93f" />
 
-## 📂 Dataset
+📂 Dataset
 - matches.csv
 - deliveries.csv
 
-## 📷 Sample Visualizations
-(See images folder for graphs)
-
-## 🔗 Project Link
-[Add your GitHub repo link here]
+🔗 Project Link
+https://github.com/Aditya-12-21/IPL-Data-Analysis
 
 ---
 
